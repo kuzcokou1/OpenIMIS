@@ -112,3 +112,6 @@ Notes:
   If you need to use anotherone, use the `DB_ENGINE` entry in the `.env` file
 * default 'options' in openIMIS are `{'driver': 'ODBC Driver 17 for SQL Server','unicode_results': True}`
   If you need to provide other options, use the `DB_OPTIONS` entry in the `.env` file (be complete: the new json string will entirely replace the default one)  
+
+To Do:
+* Modify the interface. Login page ain't that impressive
